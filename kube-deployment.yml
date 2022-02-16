@@ -1,5 +1,6 @@
 # redis
 # metiendo comentarios
+# más comentarios
 --- 
 apiVersion: v1
 kind: Service
